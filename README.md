@@ -15,6 +15,12 @@
 
 - ⚡ Fun fact: **I love watching movies 🎬 and listening to music 🎧**
 
+ ## 📱 Connect with me:
+<p align="left">
+ <a href="https://www.google.com/intl/es/gmail/about/"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+ <a href="https://www.linkedin.com/in/jlugris/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</p>
+
 ## 🚀 Languages and Tools
 
 ### Programming Languages:
@@ -64,9 +70,3 @@
  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorgelugris&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
  </div>
- 
- ## 📱 Connect with me:
-<p align="left">
- <a href="https://www.google.com/intl/es/gmail/about/"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
- <a href="https://www.linkedin.com/in/jlugris/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</p>
