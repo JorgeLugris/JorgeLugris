@@ -13,7 +13,7 @@
 
 - 📫 Contact with me **jorgelugris34@gmail.com**
 
-- ⚡ Fun fact **I love watching movies 🎬 and listenning to music 🎧**
+- ⚡ Fun fact: **I love watching movies 🎬 and listening to music 🎧**
 
 ## 🚀 Languages and Tools
 
@@ -59,13 +59,9 @@
 </p>
 
 ## 📊 My Github Stats
-<div align="left">
+<div align="center">
  
  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorgelugris&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<!--
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelugris&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
--->
 
  </div>
  
@@ -74,9 +70,3 @@
  <a href="https://www.google.com/intl/es/gmail/about/"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
  <a href="https://www.linkedin.com/in/jlugris/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=jordirocha"></a>
-<a href="https://github.com/jorgelugris?tab=followers"><img src="https://img.shields.io/github/followers/jordirocha?label=Followers&style=social"></a>
-
-
