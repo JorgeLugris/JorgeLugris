@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jorge</h1>
-<h3 align="center">I'm Junior Web Developer and passionate about engineering from Spain.</h3>
+<h3 align="center">I'm Junior Web Developer and passionate about engineering.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -17,25 +17,25 @@
 
  ## 📱 Connect with me:
 <p align="left">
- <a href="https://www.google.com/intl/es/gmail/about/"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
- <a href="https://www.linkedin.com/in/jlugris/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+ <a href="https://www.google.com/intl/es/gmail/about/"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="gmail" width="40" height="40"/> </a> 
+ <a href="https://www.linkedin.com/in/jorgelugriss/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/> </a> 
 </p>
 
 ## 🚀 Languages and Tools
 
 ### Programming Languages:
 <p align="left"> 
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1" height="44"/>
-  <img src="https://store.dimensigon.com/wp-content/uploads/2019/03/pl-sql.png" height="48" />
+  <a href="https://www.java.com/es/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/></a> 
+  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a> 
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a> 
+  <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FPHP_logo.png&f=1&nofb=1" height="44"/></a> 
+  <a href="https://www.oracle.com/es/database/technologies/appdev/plsql.html" target="_blank"><img src="https://store.dimensigon.com/wp-content/uploads/2019/03/pl-sql.png" height="48" /></a> 
 </p>
 
 ### Web:
 <p align="left"> 
-  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
 </p>
 
 ### Frameworks, Platforms and Libraries:
@@ -43,7 +43,7 @@
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"/> </a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://imgs.search.brave.com/7ykIiFSa58ie1xgESmSD_8XVsrwYzhphPjEOLBdM5w8/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5t/cndEN0l2SkE0Y2Ny/RGlNeWZHQ0FRSGFF/SyZwaWQ9QXBp" alt="sass" width="40" height="40"/> </a>
   <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://jquery.com/" target="_blank"> <img src="https://imgs.search.brave.com/QQ-qH9J0HTq1PSg5Exf8cAvCgLMQ2_joF5dJS7bjXk4/rs:fit:948:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5B/QjhaMjNjUEZXQkNv/WlFYYlUtWmFnSGFE/dCZwaWQ9QXBp" alt="JQuery" width="40" height="40"/> </a>
+  <a href="https://jquery.com/" target="_blank"> <img src="https://imgs.search.brave.com/QQ-qH9J0HTq1PSg5Exf8cAvCgLMQ2_joF5dJS7bjXk4/rs:fit:948:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5B/QjhaMjNjUEZXQkNv/WlFYYlUtWmFnSGFE/dCZwaWQ9QXBp" alt="JQuery" width="44" height="40"/> </a>
 </p>
 
 ### Databases:
@@ -68,5 +68,3 @@
 <div align="center">
  
  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jorgelugris&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
- </div>
