@@ -66,5 +66,11 @@
 
 ## 📊 My Github Stats
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgelugris&show_icons=true&theme=tokyonight)
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgelugris&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgelugris&repo=convoychat" />
+</a>
  
